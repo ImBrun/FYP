@@ -1,0 +1,867 @@
+black,"Black",#000,0,0,0,Black
+black_bean,"Black Bean",#3d0c02,61,12,2,Black
+black_leather_jacket,"Black Leather Jacket",#253529,37,53,41,Black
+black_olive,"Black Olive",#3b3c36,59,60,54,Black
+charcoal,"Charcoal",#36454f,54,69,79,Black
+cool_black,"Cool Black",#002e63,0,46,99,Black
+jet,"Jet",#343434,52,52,52,Black
+licorice,"Licorice",#1a1110,26,17,16,Black
+liver,"Liver",#534b4f,83,75,79,Black
+olive_drab_7,"Olive Drab #7",#3c341f,60,52,31,Black
+onyx,"Onyx",#353839,53,56,57,Black
+quartz,"Quartz",#51484f,81,72,79,Black
+rich_black,"Rich Black",#004040,0,64,64,Black
+smoky_black,"Smoky Black",#100c08,16,12,8,Black
+taupe,"Taupe",#483c32,72,60,5,Black
+aqua,"Aqua",#0ff,0,255,255,Blue
+aquamarine,"Aquamarine",#7fffd4,127,255,212,Blue
+air_force_blue_raf,"Air Force Blue (Raf)",#5d8aa8,93,138,168,Blue
+air_force_blue_usaf,"Air Force Blue (Usaf)",#00308f,0,48,143,Blue
+air_superiority_blue,"Air Superiority Blue",#72a0c1,114,160,193,Blue
+alice_blue,"Alice Blue",#f0f8ff,240,248,255,Blue
+baby_blue,"Baby Blue",#89cff0,137,207,240,Blue
+baby_blue_eyes,"Baby Blue Eyes",#a1caf1,161,202,241,Blue
+beau_blue,"Beau Blue",#bcd4e6,188,212,230,Blue
+blue,"Blue",#00f,0,0,255,Blue
+blue_bell,"Blue Bell",#a2a2d0,162,162,208,Blue
+blue_crayola,"Blue (Crayola)",#1f75fe,31,117,254,Blue
+blue_green,"Blue-Green",#0d98ba,13,152,186,Blue
+blue_munsell,"Blue (Munsell)",#0093af,0,147,175,Blue
+blue_ncs,"Blue (Ncs)",#0087bd,0,135,189,Blue
+blue_pigment,"Blue (Pigment)",#339,51,51,153,Blue
+blue_ryb,"Blue (Ryb)",#0247fe,2,71,254,Blue
+blue_sapphire,"Blue Sapphire",#126180,18,97,128,Blue
+blue_violet,"Blue-Violet",#8a2be2,138,43,226,Blue
+warm_black,"Warm Black",#004242,0,66,66,Blue
+azure,"Azure",#007fff,0,127,255,Blue
+ball_blue,"Ball Blue",#21abcd,33,171,205,Blue
+bleu_de_france,"Bleu De France",#318ce7,49,140,231,Blue
+blizzard_blue,"Blizzard Blue",#ace5ee,172,229,238,Blue
+bondi_blue,"Bondi Blue",#0095b6,0,149,182,Blue
+brandeis_blue,"Brandeis Blue",#0070ff,0,112,255,Blue
+bright_cerulean,"Bright Cerulean",#1dacd6,29,172,214,Blue
+bright_turquoise,"Bright Turquoise",#08e8de,8,232,222,Blue
+capri,"Capri",#00bfff,0,191,255,Blue
+carolina_blue,"Carolina Blue",#99badd,153,186,221,Blue
+catalina_blue,"Catalina Blue",#062a78,6,42,120,Blue
+celadon_blue,"Celadon Blue",#007ba7,0,123,167,Blue
+celestial_blue,"Celestial Blue",#4997d0,73,151,208,Blue
+celeste_colour,"Celeste (Colour)",#b2ffff,178,255,255,Blue
+cerulean,"Cerulean",#007ba7,0,123,167,Blue
+cobalt,"Cobalt",#0047ab,0,71,171,Blue
+columbia_blue,"Columbia Blue",#9bddff,155,221,255,Blue
+cyan,"Cyan",#0ff,0,255,255,Blue
+cyan_process,"Cyan (Process)",#00b7eb,0,183,235,Blue
+dark_cerulean,"Dark Cerulean",#08457e,8,69,126,Blue
+dark_cyan,"Dark Cyan",#008b8b,0,139,139,Blue
+dark_electric_blue,"Dark Electric Blue",#536878,83,104,120,Blue
+dark_imperial_blue,"Dark Imperial Blue",#00416a,0,65,106,Blue
+dark_midnight_blue,"Dark Midnight Blue",#036,0,51,102,Blue
+dark_pastel_blue,"Dark Pastel Blue",#779ecb,119,158,203,Blue
+dark_powder_blue,"Dark Powder Blue",#039,0,51,153,Blue
+dark_slate_blue,"Dark Slate Blue",#483d8b,72,61,139,Blue
+dark_turquoise,"Dark Turquoise",#00ced1,0,206,209,Blue
+deep_sky_blue,"Deep Sky Blue",#00bfff,0,191,255,Blue
+denim,"Denim",#1560bd,21,96,189,Blue
+dodger_blue,"Dodger Blue",#1e90ff,30,144,255,Blue
+duke_blue,"Duke Blue",#00009c,0,0,156,Blue
+egyptian_blue,"Egyptian Blue",#1034a6,16,52,166,Blue
+electric_blue,"Electric Blue",#7df9ff,125,249,255,Blue
+electric_cyan,"Electric Cyan",#0ff,0,255,255,Blue
+electric_indigo,"Electric Indigo",#6f00ff,111,0,255,Blue
+electric_ultramarine,"Electric Ultramarine",#3f00ff,63,0,255,Blue
+eton_blue,"Eton Blue",#96c8a2,150,200,162,Blue
+french_blue,"French Blue",#0072bb,0,114,187,Blue
+glaucous,"Glaucous",#6082b6,96,130,182,Blue
+han_blue,"Han Blue",#446ccf,68,108,207,Blue
+honolulu_blue,"Honolulu Blue",#007fbf,0,127,191,Blue
+iceberg,"Iceberg",#71a6d2,113,166,210,Blue
+imperial_blue,"Imperial Blue",#002395,0,35,149,Blue
+international_klein_blue,"International Klein Blue",#002fa7,0,47,167,Blue
+iris,"Iris",#5a4fcf,90,79,207,Blue
+lapis_lazuli,"Lapis Lazuli",#26619c,38,97,156,Blue
+light_blue,"Light Blue",#add8e6,173,216,230,Blue
+light_cornflower_blue,"Light Cornflower Blue",#93ccea,147,204,234,Blue
+light_cyan,"Light Cyan",#e0ffff,224,255,255,Blue
+light_sky_blue,"Light Sky Blue",#87cefa,135,206,250,Blue
+little_boy_blue,"Little Boy Blue",#6ca0dc,108,160,220,Blue
+dark_blue,"Dark Blue",#00008b,0,0,139,Blue
+cerulean_blue,"Cerulean Blue",#2a52be,42,82,190,Blue
+cerulean_frost,"Cerulean Frost",#6d9bc3,109,155,195,Blue
+cg_blue,"Cg Blue",#007aa5,0,122,165,Blue
+majorelle_blue,"Majorelle Blue",#6050dc,96,80,220,Blue
+cornflower_blue,"Cornflower Blue",#6495ed,100,149,237,Blue
+maya_blue,"Maya Blue",#73c2fb,115,194,251,Blue
+medium_aquamarine,"Medium Aquamarine",#6da,102,221,170,Blue
+medium_blue,"Medium Blue",#0000cd,0,0,205,Blue
+medium_electric_blue,"Medium Electric Blue",#035096,3,80,150,Blue
+medium_turquoise,"Medium Turquoise",#48d1cc,72,209,204,Blue
+medium_persian_blue,"Medium Persian Blue",#0067a5,0,103,165,Blue
+medium_slate_blue,"Medium Slate Blue",#7b68ee,123,104,238,Blue
+midnight_blue,"Midnight Blue",#191970,25,25,112,Blue
+moonstone_blue,"Moonstone Blue",#73a9c2,115,169,194,Blue
+navy_blue,"Navy Blue",#000080,0,0,128,Blue
+non_photo_blue,"Non-Photo Blue",#a4dded,164,221,237,Blue
+ocean_boat_blue,"Ocean Boat Blue",#0077be,0,119,190,Blue
+oxford_blue,"Oxford Blue",#002147,0,33,71,Blue
+palatinate_blue,"Palatinate Blue",#273be2,39,59,226,Blue
+pale_aqua,"Pale Aqua",#bcd4e6,188,212,230,Blue
+pale_blue,"Pale Blue",#afeeee,175,238,238,Blue
+pale_cerulean,"Pale Cerulean",#9bc4e2,155,196,226,Blue
+pale_cornflower_blue,"Pale Cornflower Blue",#abcdef,171,205,239,Blue
+pale_robin_egg_blue,"Pale Robin Egg Blue",#96ded1,150,222,209,Blue
+pastel_blue,"Pastel Blue",#aec6cf,174,198,207,Blue
+pearl_aqua,"Pearl Aqua",#88d8c0,136,216,192,Blue
+periwinkle,"Periwinkle",#ccf,204,204,255,Blue
+persian_blue,"Persian Blue",#1c39bb,28,57,187,Blue
+persian_indigo,"Persian Indigo",#32127a,50,18,122,Blue
+phthalo_blue,"Phthalo Blue",#000f89,0,15,137,Blue
+powder_blue_web,"Powder Blue (Web)",#b0e0e6,176,224,230,Blue
+prussian_blue,"Prussian Blue",#003153,0,49,83,Blue
+rackley,"Rackley",#5d8aa8,93,138,168,Blue
+regalia,"Regalia",#522d80,82,45,128,Blue
+resolution_blue,"Resolution Blue",#002387,0,35,135,Blue
+rich_electric_blue,"Rich Electric Blue",#0892d0,8,146,208,Blue
+robin_egg_blue,"Robin Egg Blue",#0cc,0,204,204,Blue
+royal_azure,"Royal Azure",#0038a8,0,56,168,Blue
+royal_blue_traditional,"Royal Blue (Traditional)",#002366,0,35,102,Blue
+royal_blue_web,"Royal Blue (Web)",#4169e1,65,105,225,Blue
+sapphire,"Sapphire",#0f52ba,15,82,186,Blue
+sapphire_blue,"Sapphire Blue",#0067a5,0,103,165,Blue
+sea_blue,"Sea Blue",#006994,0,105,148,Blue
+skobeloff,"Skobeloff",#007474,0,116,116,Blue
+sky_blue,"Sky Blue",#87ceeb,135,206,235,Blue
+slate_blue,"Slate Blue",#6a5acd,106,90,205,Blue
+smalt_dark_powder_blue,"Smalt (Dark Powder Blue)",#039,0,51,153,Blue
+spiro_disco_ball,"Spiro Disco Ball",#0fc0fc,15,192,252,Blue
+st_patrick_s_blue,"St. Patrick'S Blue",#23297a,35,41,122,Blue
+steel_blue,"Steel Blue",#4682b4,70,130,180,Blue
+teal,"Teal",#008080,0,128,128,Blue
+teal_blue,"Teal Blue",#367588,54,117,136,Blue
+tiffany_blue,"Tiffany Blue",#0abab5,10,186,181,Blue
+toolbox,"Toolbox",#746cc0,116,108,192,Blue
+true_blue,"True Blue",#0073cf,0,115,207,Blue
+tufts_blue,"Tufts Blue",#417dc1,65,125,193,Blue
+turquoise,"Turquoise",#30d5c8,48,213,200,Blue
+turquoise_blue,"Turquoise Blue",#00ffef,0,255,239,Blue
+turquoise_green,"Turquoise Green",#a0d6b4,160,214,180,Blue
+ua_blue,"Ua Blue",#03a,0,51,170,Blue
+ube,"Ube",#8878c3,136,120,195,Blue
+ucla_blue,"Ucla Blue",#536895,83,104,149,Blue
+ultramarine,"Ultramarine",#120a8f,18,10,143,Blue
+ultramarine_blue,"Ultramarine Blue",#4166f5,65,102,245,Blue
+united_nations_blue,"United Nations Blue",#5b92e5,91,146,229,Blue
+usafa_blue,"Usafa Blue",#004f98,0,79,152,Blue
+verdigris,"Verdigris",#43b3ae,67,179,174,Blue
+waterspout,"Waterspout",#a4f4f9,164,244,249,Blue
+wild_blue_yonder,"Wild Blue Yonder",#a2add0,162,173,208,Blue
+yale_blue,"Yale Blue",#0f4d92,15,77,146,Blue
+zaffre,"Zaffre",#0014a8,0,20,16,Blue
+bistre,"Bistre",#3d2b1f,61,43,31,Dark-Brown
+bole,"Bole",#79443b,121,68,59,Dark-Brown
+bulgarian_rose,"Bulgarian Rose",#480607,72,6,7,Dark-Brown
+burnt_umber,"Burnt Umber",#8a3324,138,51,36,Dark-Brown
+caf_noir,"Café Noir",#4b3621,75,54,33,Dark-Brown
+caput_mortuum,"Caput Mortuum",#592720,89,39,32,Dark-Brown
+zinnwaldite_brown,"Zinnwaldite Brown",#2c1608,44,22,8,Dark-Brown
+coffee,"Coffee",#6f4e37,111,78,55,Dark-Brown
+dark_lava,"Dark Lava",#483c32,72,60,50,Dark-Brown
+dark_sienna,"Dark Sienna",#3c1414,60,20,20,Dark-Brown
+dark_taupe,"Dark Taupe",#483c32,72,60,50,Dark-Brown
+field_drab,"Field Drab",#6c541e,108,84,30,Dark-Brown
+medium_taupe,"Medium Taupe",#674c47,103,76,71,Dark-Brown
+dark_brown,"Dark Brown",#654321,101,67,33,Dark-Brown
+deep_coffee,"Deep Coffee",#704241,112,66,65,Dark-Brown
+otter_brown,"Otter Brown",#654321,101,67,33,Dark-Brown
+rose_ebony,"Rose Ebony",#674846,103,72,70,Dark-Brown
+seal_brown,"Seal Brown",#321414,50,20,20,Dark-Brown
+umber,"Umber",#635147,99,81,71,Dark-Brown
+wenge,"Wenge",#645452,100,84,8,Dark-Brown
+amethyst,"Amethyst",#96c,153,102,204,Gray-Blue
+antique_fuchsia,"Antique Fuchsia",#915c83,145,92,131,Gray-Blue
+arsenic,"Arsenic",#3b444b,59,68,75,Gray-Blue
+ash_grey,"Ash Grey",#b2beb5,178,190,181,Gray-Blue
+aurometalsaurus,"Aurometalsaurus",#6e7f80,110,127,128,Gray-Blue
+blue_gray,"Blue Gray",#69c,102,153,204,Gray-Blue
+battleship_grey,"Battleship Grey",#848482,132,132,130,Gray-Blue
+cadet,"Cadet",#536872,83,104,114,Gray-Blue
+cadet_blue,"Cadet Blue",#5f9ea0,95,158,160,Gray-Blue
+cadet_grey,"Cadet Grey",#91a3b0,145,163,176,Gray-Blue
+ceil,"Ceil",#92a1cf,146,161,207,Gray-Blue
+coral,"Coral",#ff7f50,255,127,80,Gray-Blue
+cool_grey,"Cool Grey",#8c92ac,140,146,172,Gray-Blue
+dark_gray,"Dark Gray",#a9a9a9,169,169,169,Gray-Blue
+dark_slate_gray,"Dark Slate Gray",#2f4f4f,47,79,79,Gray-Blue
+davy_s_grey,"Davy'S Grey",#555,85,85,85,Gray-Blue
+dim_gray,"Dim Gray",#696969,105,105,105,Gray-Blue
+ebony,"Ebony",#555d50,85,93,80,Gray-Blue
+feldgrau,"Feldgrau",#4d5d53,77,93,83,Gray-Blue
+gray,"Gray",#808080,128,128,128,Gray-Blue
+gray_asparagus,"Gray-Asparagus",#465945,70,89,69,Gray-Blue
+gray_html_css_gray,"Gray (Html/Css Gray)",#808080,128,128,128,Gray-Blue
+light_slate_gray,"Light Slate Gray",#789,119,136,153,Gray-Blue
+manatee,"Manatee",#979aaa,151,154,170,Gray-Blue
+outer_space,"Outer Space",#414a4c,65,74,76,Gray-Blue
+payne_s_grey,"Payne'S Grey",#536878,83,104,120,Gray-Blue
+slate_gray,"Slate Gray",#708090,112,128,144,Gray-Blue
+stormcloud,"Stormcloud",#4f666a,79,102,106,Gray-Blue
+taupe_gray,"Taupe Gray",#8b8589,139,133,137,Gray-Blue
+trolley_grey,"Trolley Grey",#808080,128,128,12,Gray-Blue
+ao_english,"Ao (English)",#008000,0,128,0,Green
+apple_green,"Apple Green",#8db600,141,182,0,Green
+army_green,"Army Green",#4b5320,75,83,32,Green
+asparagus,"Asparagus",#87a96b,135,169,107,Green
+bright_green,"Bright Green",#6f0,102,255,0,Green
+avocado,"Avocado",#568203,86,130,3,Green
+bottle_green,"Bottle Green",#006a4e,0,106,78,Green
+british_racing_green,"British Racing Green",#004225,0,66,37,Green
+cadmium_green,"Cadmium Green",#006b3c,0,107,60,Green
+cal_poly_green,"Cal Poly Green",#1e4d2b,30,77,43,Green
+cambridge_blue,"Cambridge Blue",#a3c1ad,163,193,173,Green
+camouflage_green,"Camouflage Green",#78866b,120,134,107,Green
+caribbean_green,"Caribbean Green",#0c9,0,204,153,Green
+celadon,"Celadon",#ace1af,172,225,175,Green
+chartreuse_web,"Chartreuse (Web)",#7fff00,127,255,0,Green
+dark_jungle_green,"Dark Jungle Green",#1a2421,26,36,33,Green
+dark_khaki,"Dark Khaki",#bdb76b,189,183,107,Green
+dark_olive_green,"Dark Olive Green",#556b2f,85,107,47,Green
+dark_pastel_green,"Dark Pastel Green",#03c03c,3,192,60,Green
+dark_sea_green,"Dark Sea Green",#8fbc8f,143,188,143,Green
+dark_spring_green,"Dark Spring Green",#177245,23,114,69,Green
+deep_jungle_green,"Deep Jungle Green",#004b49,0,75,73,Green
+dollar_bill,"Dollar Bill",#85bb65,133,187,101,Green
+electric_green,"Electric Green",#0f0,0,255,0,Green
+electric_lime,"Electric Lime",#cf0,204,255,0,Green
+emerald,"Emerald",#50c878,80,200,120,Green
+fern_green,"Fern Green",#4f7942,79,121,66,Green
+android_green,"Android Green",#a4c639,164,198,57,Green
+forest_green_traditional,"Forest Green (Traditional)",#014421,1,68,33,Green
+forest_green_web,"Forest Green (Web)",#228b22,34,139,34,Green
+french_lime,"French Lime",#cf0,204,255,0,Green
+granny_smith_apple,"Granny Smith Apple",#a8e4a0,168,228,160,Green
+green_color_wheel_x11_green,"Green (Color Wheel) (X11 Green)",#0f0,0,255,0,Green
+green_crayola,"Green (Crayola)",#1cac78,28,172,120,Green
+green_html_css_green,"Green (Html/Css Green)",#008000,0,128,0,Green
+green_munsell,"Green (Munsell)",#00a877,0,168,119,Green
+green_ncs,"Green (Ncs)",#009f6b,0,159,107,Green
+green_pigment,"Green (Pigment)",#00a550,0,165,80,Green
+green_ryb,"Green (Ryb)",#66b032,102,176,50,Green
+green_yellow,"Green-Yellow",#adff2f,173,255,47,Green
+guppie_green,"Guppie Green",#00ff7f,0,255,127,Green
+harlequin,"Harlequin",#3fff00,63,255,0,Green
+heart_gold,"Heart Gold",#808000,128,128,0,Green
+hooker_s_green,"Hooker'S Green",#49796b,73,121,107,Green
+hunter_green,"Hunter Green",#355e3b,53,94,59,Green
+inchworm,"Inchworm",#b2ec5d,178,236,93,Green
+india_green,"India Green",#138808,19,136,8,Green
+islamic_green,"Islamic Green",#009000,0,144,0,Green
+jade,"Jade",#00a86b,0,168,107,Green
+kelly_green,"Kelly Green",#4cbb17,76,187,23,Green
+june_bud,"June Bud",#bdda57,189,218,87,Green
+jungle_green,"Jungle Green",#29ab87,41,171,135,Green
+la_salle_green,"La Salle Green",#087830,8,120,48,Green
+laurel_green,"Laurel Green",#a9ba9d,169,186,157,Green
+lawn_green,"Lawn Green",#7cfc00,124,252,0,Green
+light_green,"Light Green",#90ee90,144,238,144,Green
+light_sea_green,"Light Sea Green",#20b2aa,32,178,170,Green
+lime_color_wheel,"Lime (Color Wheel)",#bfff00,191,255,0,Green
+lime_green,"Lime Green",#32cd32,50,205,50,Green
+lime_web_x11_green,"Lime (Web) (X11 Green)",#0f0,0,255,0,Green
+limerick,"Limerick",#9dc209,157,194,9,Green
+lincoln_green,"Lincoln Green",#195905,25,89,5,Green
+celadon_green,"Celadon Green",#2f847c,47,132,124,Green
+dark_green,"Dark Green",#013220,1,50,32,Green
+dartmouth_green,"Dartmouth Green",#00703c,0,112,60,Green
+magic_mint,"Magic Mint",#aaf0d1,170,240,209,Green
+malachite,"Malachite",#0bda51,11,218,81,Green
+mantis,"Mantis",#74c365,116,195,101,Green
+medium_jungle_green,"Medium Jungle Green",#1c352d,28,53,45,Green
+medium_sea_green,"Medium Sea Green",#3cb371,60,179,113,Green
+medium_spring_green,"Medium Spring Green",#00fa9a,0,250,154,Green
+medium_spring_bud,"Medium Spring Bud",#c9dc87,201,220,135,Green
+midnight_green_eagle_green,"Midnight Green (Eagle Green)",#004953,0,73,83,Green
+mint,"Mint",#3eb489,62,180,137,Green
+mint_cream,"Mint Cream",#f5fffa,245,255,250,Green
+mint_green,"Mint Green",#98ff98,152,255,152,Green
+moss_green,"Moss Green",#addfad,173,223,173,Green
+mountain_meadow,"Mountain Meadow",#30ba8f,48,186,143,Green
+msu_green,"Msu Green",#18453b,24,69,59,Green
+myrtle,"Myrtle",#21421e,33,66,30,Green
+napier_green,"Napier Green",#2a8000,42,128,0,Green
+neon_green,"Neon Green",#39ff14,57,255,20,Green
+north_texas_green,"North Texas Green",#059033,5,144,51,Green
+office_green,"Office Green",#008000,0,128,0,Green
+olive,"Olive",#808000,128,128,0,Green
+olive_drab_web_olive_drab_3,"Olive Drab (Web) (Olive Drab #3)",#6b8e23,107,142,35,Green
+olivine,"Olivine",#9ab973,154,185,115,Green
+pakistan_green,"Pakistan Green",#060,0,102,0,Green
+pale_green,"Pale Green",#98fb98,152,251,152,Green
+paris_green,"Paris Green",#50c878,80,200,120,Green
+pastel_green,"Pastel Green",#7d7,119,221,119,Green
+pear,"Pear",#d1e231,209,226,49,Green
+persian_green,"Persian Green",#00a693,0,166,147,Green
+phthalo_green,"Phthalo Green",#123524,18,53,36,Green
+pine_green,"Pine Green",#01796f,1,121,111,Green
+pistachio,"Pistachio",#93c572,147,197,114,Green
+rifle_green,"Rifle Green",#414833,65,72,51,Green
+sacramento_state_green,"Sacramento State Green",#00563f,0,86,63,Green
+sap_green,"Sap Green",#507d2a,80,125,42,Green
+screamin_green,"Screamin' Green",#76ff7a,118,255,122,Green
+sea_green,"Sea Green",#2e8b57,46,139,87,Green
+shamrock_green,"Shamrock Green",#009e60,0,158,96,Green
+spring_bud,"Spring Bud",#a7fc00,167,252,0,Green
+spring_green,"Spring Green",#00ff7f,0,255,127,Green
+tea_green,"Tea Green",#d0f0c0,208,240,192,Green
+teal_green,"Teal Green",#00827f,0,130,127,Green
+tropical_rain_forest,"Tropical Rain Forest",#00755e,0,117,94,Green
+ufo_green,"Ufo Green",#3cd070,60,208,112,Green
+up_forest_green,"Up Forest Green",#014421,1,68,33,Green
+viridian,"Viridian",#40826d,64,130,109,Green
+xanadu,"Xanadu",#738678,115,134,120,Green
+amber,"Amber",#ffbf00,255,191,0,Light-Brown
+amber_sae_ece,"Amber (Sae/Ece)",#ff7e00,255,126,0,Light-Brown
+alloy_orange,"Alloy Orange",#c46210,196,98,16,Light-Brown
+brown_traditional,"Brown (Traditional)",#964b00,150,75,0,Light-Brown
+beaver,"Beaver",#9f8170,159,129,112,Light-Brown
+blast_off_bronze,"Blast-Off Bronze",#a57164,165,113,100,Pink
+bronze,"Bronze",#cd7f32,205,127,50,Light-Brown
+burlywood,"Burlywood",#deb887,222,184,135,Light-Brown
+burnt_orange,"Burnt Orange",#c50,204,85,0,Light-Brown
+cadmium_orange,"Cadmium Orange",#ed872d,237,135,45,Light-Brown
+caf_au_lait,"Café Au Lait",#a67b5b,166,123,91,Light-Brown
+camel,"Camel",#c19a6b,193,154,107,Light-Brown
+carrot_orange,"Carrot Orange",#ed9121,237,145,33,Light-Brown
+medium_tuscan_red,"Medium Tuscan Red",#79443b,121,68,59,Red
+chamoisee,"Chamoisee",#a0785a,160,120,90,Light-Brown
+chocolate_traditional,"Chocolate (Traditional)",#7b3f00,123,63,0,Light-Brown
+chocolate_web,"Chocolate (Web)",#d2691e,210,105,30,Light-Brown
+cinereous,"Cinereous",#98817b,152,129,123,Light-Brown
+cinnamon,"Cinnamon",#d2691e,210,105,30,Light-Brown
+cocoa_brown,"Cocoa Brown",#d2691e,210,105,30,Light-Brown
+copper_rose,"Copper Rose",#966,153,102,102,Light-Brown
+copper,"Copper",#b87333,184,115,51,Light-Brown
+copper_crayola,"Copper (Crayola)",#da8a67,218,138,103,Light-Brown
+copper_penny,"Copper Penny",#ad6f69,173,111,105,Light-Brown
+dark_chestnut,"Dark Chestnut",#986960,152,105,96,Pink
+dark_goldenrod,"Dark Goldenrod",#b8860b,184,134,11,Light-Brown
+dark_orange,"Dark Orange",#ff8c00,255,140,0,Light-Brown
+dark_tan,"Dark Tan",#918151,145,129,81,Light-Brown
+dark_tangerine,"Dark Tangerine",#ffa812,255,168,18,Light-Brown
+dark_yellow,"Dark Yellow",#9b870c,155,135,12,Light-Brown
+desert,"Desert",#c19a6b,193,154,107,Light-Brown
+drab,"Drab",#967117,150,113,23,Light-Brown
+ecru,"Ecru",#c2b280,194,178,128,Light-Brown
+fallow,"Fallow",#c19a6b,193,154,107,Light-Brown
+french_beige,"French Beige",#a67b5b,166,123,91,Light-Brown
+fulvous,"Fulvous",#e48400,228,132,0,Light-Brown
+gamboge,"Gamboge",#e49b0f,228,155,15,Light-Brown
+ginger,"Ginger",#b06500,176,101,0,Light-Brown
+gold_metallic,"Gold (Metallic)",#d4af37,212,175,55,Light-Brown
+golden_brown,"Golden Brown",#996515,153,101,21,Light-Brown
+goldenrod,"Goldenrod",#daa520,218,165,32,Light-Brown
+grullo,"Grullo",#a99a86,169,154,134,Skin
+harvest_gold,"Harvest Gold",#da9100,218,145,0,Light-Brown
+international_orange_aerospace,"International Orange (Aerospace)",#ff4f00,255,79,0,Light-Brown
+international_orange_engineering,"International Orange (Engineering)",#ba160c,186,22,12,Light-Brown
+international_orange_golden_gate_bridge,"International Orange (Golden Gate Bridge)",#c0362c,192,54,44,Light-Brown
+khaki_html_css_khaki,"Khaki (Html/Css) (Khaki)",#c3b091,195,176,145,Light-Brown
+light_brown,"Light Brown",#b5651d,181,101,29,Light-Brown
+light_taupe,"Light Taupe",#b38b6d,179,139,109,Light-Brown
+lion,"Lion",#c19a6b,193,154,107,Light-Brown
+mode_beige,"Mode Beige",#967117,150,113,23,Light-Brown
+neon_carrot,"Neon Carrot",#ffa343,255,163,67,Light-Brown
+ochre,"Ochre",#c72,204,119,34,Light-Brown
+old_gold,"Old Gold",#cfb53b,207,181,59,Light-Brown
+orange_color_wheel,"Orange (Color Wheel)",#ff7f00,255,127,0,Light-Brown
+orange_peel,"Orange Peel",#ff9f00,255,159,0,Light-Brown
+orange_ryb,"Orange (Ryb)",#fb9902,251,153,2,Light-Brown
+orange_web_color,"Orange (Web Color)",#ffa500,255,165,0,Light-Brown
+pale_brown,"Pale Brown",#987654,152,118,84,Light-Brown
+pale_taupe,"Pale Taupe",#bc987e,188,152,126,Light-Brown
+pastel_brown,"Pastel Brown",#836953,131,105,83,Light-Brown
+pastel_orange,"Pastel Orange",#ffb347,255,179,71,Light-Brown
+persian_orange,"Persian Orange",#d99058,217,144,88,Light-Brown
+peru,"Peru",#cd853f,205,133,63,Light-Brown
+raspberry_glace,"Raspberry Glace",#915f6d,145,95,109,Light-Brown
+raw_umber,"Raw Umber",#826644,130,102,68,Light-Brown
+rose_taupe,"Rose Taupe",#905d5d,144,93,93,Pink
+ruddy_brown,"Ruddy Brown",#bb6528,187,101,40,Light-Brown
+russet,"Russet",#80461b,128,70,27,Light-Brown
+rust,"Rust",#b7410e,183,65,14,Light-Brown
+saddle_brown,"Saddle Brown",#8b4513,139,69,19,Light-Brown
+sand_dune,"Sand Dune",#967117,150,113,23,Light-Brown
+sandy_taupe,"Sandy Taupe",#967117,150,113,23,Light-Brown
+satin_sheen_gold,"Satin Sheen Gold",#cba135,203,161,53,Light-Brown
+sepia,"Sepia",#704214,112,66,20,Light-Brown
+shadow,"Shadow",#8a795d,138,121,93,Light-Brown
+tenn_tawny,"Tenné (Tawny)",#cd5700,205,87,0,Light-Brown
+tiger_s_eye,"Tiger'S Eye",#e08d3c,224,141,60,Light-Brown
+wood_brown,"Wood Brown",#c19a6b,193,154,10,Light-Brown
+bazaar,"Bazaar",#98777b,152,119,123,Pink
+bittersweet,"Bittersweet",#fe6f5e,254,111,94,Pink
+blush,"Blush",#de5d83,222,93,131,Pink
+boysenberry,"Boysenberry",#873260,135,50,96,Pink
+brilliant_rose,"Brilliant Rose",#ff55a3,255,85,163,Pink
+brink_pink,"Brink Pink",#fb607f,251,96,127,Pink
+bubble_gum,"Bubble Gum",#ffc1cc,255,193,204,Pink
+burnt_sienna,"Burnt Sienna",#e97451,233,116,81,Pink
+cameo_pink,"Cameo Pink",#efbbcc,239,187,204,Pink
+candy_pink,"Candy Pink",#e4717a,228,113,122,Pink
+carmine_m_p,"Carmine (M&P)",#d70040,215,0,64,Pink
+carmine_pink,"Carmine Pink",#eb4c42,235,76,66,Pink
+carnation_pink,"Carnation Pink",#ffa6c9,255,166,201,Pink
+cerise,"Cerise",#de3163,222,49,99,Pink
+chestnut,"Chestnut",#cd5c5c,205,92,92,Pink
+cinnabar,"Cinnabar",#e34234,227,66,52,Pink
+classic_rose,"Classic Rose",#fbcce7,251,204,231,Pink
+cotton_candy,"Cotton Candy",#ffbcd9,255,188,217,Pink
+dark_coral,"Dark Coral",#cd5b45,205,91,69,Pink
+deep_carrot_orange,"Deep Carrot Orange",#e9692c,233,105,44,Pink
+dark_pink,"Dark Pink",#e75480,231,84,128,Pink
+dark_terra_cotta,"Dark Terra Cotta",#cc4e5c,204,78,92,Pink
+deep_chestnut,"Deep Chestnut",#b94e48,185,78,72,Pink
+deep_pink,"Deep Pink",#ff1493,255,20,147,Pink
+deep_ruby,"Deep Ruby",#843f5b,132,63,91,Pink
+dogwood_rose,"Dogwood Rose",#d71868,215,24,104,Pink
+flame,"Flame",#e25822,226,88,34,Pink
+flamingo_pink,"Flamingo Pink",#fc8eac,252,142,172,Pink
+fluorescent_pink,"Fluorescent Pink",#ff1493,255,20,147,Pink
+french_rose,"French Rose",#f64a8a,246,74,138,Pink
+fuchsia,"Fuchsia",#f0f,255,0,255,Pink
+fuchsia_pink,"Fuchsia Pink",#f7f,255,119,255,Pink
+medium_ruby,"Medium Ruby",#aa4069,170,64,105,Pink
+fuchsia_rose,"Fuchsia Rose",#c74375,199,67,117,Pink
+fuzzy_wuzzy,"Fuzzy Wuzzy",#c66,204,102,102,Pink
+hollywood_cerise,"Hollywood Cerise",#f400a1,244,0,161,Pink
+hot_magenta,"Hot Magenta",#ff1dce,255,29,206,Pink
+hot_pink,"Hot Pink",#ff69b4,255,105,180,Pink
+lavender_rose,"Lavender Rose",#fba0e3,251,160,227,Pink
+lavender_pink,"Lavender Pink",#fbaed2,251,174,210,Pink
+light_carmine_pink,"Light Carmine Pink",#e66771,230,103,113,Pink
+light_coral,"Light Coral",#f08080,240,128,128,Pink
+light_crimson,"Light Crimson",#f56991,245,105,145,Pink
+light_fuchsia_pink,"Light Fuchsia Pink",#f984ef,249,132,239,Pink
+light_pink,"Light Pink",#ffb6c1,255,182,193,Pink
+light_salmon,"Light Salmon",#ffa07a,255,160,122,Pink
+light_salmon_pink,"Light Salmon Pink",#f99,255,153,153,Pink
+light_thulian_pink,"Light Thulian Pink",#e68fac,230,143,172,Pink
+magenta,"Magenta",#f0f,255,0,255,Pink
+magenta_dye,"Magenta (Dye)",#ca1f7b,202,31,123,Pink
+magenta_process,"Magenta (Process)",#ff0090,255,0,144,Pink
+mango_tango,"Mango Tango",#ff8243,255,130,67,Pink
+cerise_pink,"Cerise Pink",#ec3b83,236,59,131,Pink
+cherry_blossom_pink,"Cherry Blossom Pink",#ffb7c5,255,183,197,Pink
+charm_pink,"Charm Pink",#e68fac,230,143,172,Pink
+coral_pink,"Coral Pink",#f88379,248,131,121,Pink
+china_pink,"China Pink",#de6fa1,222,111,161,Pink
+china_rose,"China Rose",#a8516e,168,81,110,Pink
+congo_pink,"Congo Pink",#f88379,248,131,121,Pink
+mauve_taupe,"Mauve Taupe",#915f6d,145,95,109,Pink
+mauvelous,"Mauvelous",#ef98aa,239,152,170,Pink
+medium_vermilion,"Medium Vermilion",#d9603b,217,96,59,Pink
+medium_violet_red,"Medium Violet-Red",#c71585,199,21,133,Pink
+melon,"Melon",#fdbcb4,253,188,180,Pink
+mountbatten_pink,"Mountbatten Pink",#997a8d,153,122,141,Pink
+mulberry,"Mulberry",#c54b8c,197,75,140,Pink
+nadeshiko_pink,"Nadeshiko Pink",#f6adc6,246,173,198,Pink
+neon_fuchsia,"Neon Fuchsia",#fe4164,254,65,100,Pink
+new_york_pink,"New York Pink",#d7837f,215,131,127,Pink
+old_rose,"Old Rose",#c08081,192,128,129,Pink
+outrageous_orange,"Outrageous Orange",#ff6e4a,255,110,74,Pink
+pale_chestnut,"Pale Chestnut",#ddadaf,221,173,175,Pink
+pale_copper,"Pale Copper",#da8a67,218,138,103,Pink
+pale_magenta,"Pale Magenta",#f984e5,249,132,229,Pink
+pale_pink,"Pale Pink",#fadadd,250,218,221,Pink
+pale_red_violet,"Pale Red-Violet",#db7093,219,112,147,Pink
+pale_violet_red,"Pale Violet-Red",#db7093,219,112,147,Pink
+pastel_magenta,"Pastel Magenta",#f49ac2,244,154,194,Pink
+pastel_pink,"Pastel Pink",#dea5a4,222,165,164,Pink
+pastel_red,"Pastel Red",#ff6961,255,105,97,Pink
+persian_pink,"Persian Pink",#f77fbe,247,127,190,Pink
+persian_rose,"Persian Rose",#fe28a2,254,40,162,Pink
+piggy_pink,"Piggy Pink",#fddde6,253,221,230,Pink
+pink,"Pink",#ffc0cb,255,192,203,Pink
+pink_lace,"Pink Lace",#ffddf4,255,221,244,Pink
+pink_orange,"Pink-Orange",#f96,255,153,102,Pink
+pink_pearl,"Pink Pearl",#e7accf,231,172,207,Pink
+pink_sherbet,"Pink Sherbet",#f78fa7,247,143,167,Pink
+portland_orange,"Portland Orange",#ff5a36,255,90,54,Pink
+princeton_orange,"Princeton Orange",#ff8f00,255,143,0,Pink
+puce,"Puce",#c89,204,136,153,Pink
+pumpkin,"Pumpkin",#ff7518,255,117,24,Pink
+rajah,"Rajah",#fbab60,251,171,96,Pink
+raspberry,"Raspberry",#e30b5d,227,11,93,Pink
+raspberry_pink,"Raspberry Pink",#e25098,226,80,152,Pink
+raspberry_rose,"Raspberry Rose",#b3446c,179,68,108,Pink
+razzle_dazzle_rose,"Razzle Dazzle Rose",#f3c,255,51,204,Pink
+razzmatazz,"Razzmatazz",#e3256b,227,37,107,Pink
+rich_maroon,"Rich Maroon",#b03060,176,48,96,Pink
+rose,"Rose",#ff007f,255,0,127,Pink
+rose_bonbon,"Rose Bonbon",#f9429e,249,66,158,Pink
+rose_pink,"Rose Pink",#f6c,255,102,204,Pink
+rose_gold,"Rose Gold",#b76e79,183,110,121,Pink
+rose_vale,"Rose Vale",#ab4e52,171,78,82,Pink
+rosy_brown,"Rosy Brown",#bc8f8f,188,143,143,Pink
+royal_fuchsia,"Royal Fuchsia",#ca2c92,202,44,146,Pink
+ruddy_pink,"Ruddy Pink",#e18e96,225,142,150,Pink
+safety_orange_blaze_orange,"Safety Orange (Blaze Orange)",#ff6700,255,103,0,Pink
+salmon,"Salmon",#ff8c69,255,140,105,Pink
+salmon_pink,"Salmon Pink",#ff91a4,255,145,164,Pink
+sandy_brown,"Sandy Brown",#f4a460,244,164,96,Pink
+shocking_pink,"Shocking Pink",#fc0fc0,252,15,192,Pink
+shocking_pink_crayola,"Shocking Pink (Crayola)",#ff6fff,255,111,255,Pink
+sky_magenta,"Sky Magenta",#cf71af,207,113,175,Pink
+tangelo,"Tangelo",#f94d00,249,77,0,Pink
+tangerine,"Tangerine",#f28500,242,133,0,Pink
+tango_pink,"Tango Pink",#e4717a,228,113,122,Pink
+tea_rose_orange,"Tea Rose (Orange)",#f88379,248,131,121,Pink
+tea_rose_rose,"Tea Rose (Rose)",#f4c2c2,244,194,194,Pink
+telemagenta,"Telemagenta",#cf3476,207,52,118,Pink
+terra_cotta,"Terra Cotta",#e2725b,226,114,91,Pink
+thulian_pink,"Thulian Pink",#de6fa1,222,111,161,Pink
+tickle_me_pink,"Tickle Me Pink",#fc89ac,252,137,172,Pink
+turkish_rose,"Turkish Rose",#b57281,181,114,129,Pink
+ultra_pink,"Ultra Pink",#ff6fff,255,111,255,Pink
+vivid_cerise,"Vivid Cerise",#da1d81,218,29,129,Pink
+vivid_tangerine,"Vivid Tangerine",#ffa089,255,160,137,Pink
+wild_strawberry,"Wild Strawberry",#ff43a4,255,67,164,Pink
+wild_watermelon,"Wild Watermelon",#fc6c85,252,108,13,Pink
+bright_lavender,"Bright Lavender",#bf94e4,191,148,228,Purple
+bright_ube,"Bright Ube",#d19fe8,209,159,232,Purple
+brilliant_lavender,"Brilliant Lavender",#f4bbff,244,187,255,Purple
+byzantine,"Byzantine",#bd33a4,189,51,164,Purple
+byzantium,"Byzantium",#702963,112,41,99,Purple
+medium_red_violet,"Medium Red-Violet",#bb3385,187,51,133,Purple
+dark_byzantium,"Dark Byzantium",#5d3954,93,57,84,Purple
+dark_lavender,"Dark Lavender",#734f96,115,79,150,Purple
+dark_magenta,"Dark Magenta",#8b008b,139,0,139,Purple
+dark_pastel_purple,"Dark Pastel Purple",#966fd6,150,111,214,Purple
+dark_orchid,"Dark Orchid",#9932cc,153,50,204,Purple
+dark_raspberry,"Dark Raspberry",#872657,135,38,87,Purple
+dark_violet,"Dark Violet",#9400d3,148,0,211,Purple
+deep_cerise,"Deep Cerise",#da3287,218,50,135,Purple
+deep_fuchsia,"Deep Fuchsia",#c154c1,193,84,193,Purple
+deep_lilac,"Deep Lilac",#95b,153,85,187,Purple
+deep_magenta,"Deep Magenta",#c0c,204,0,204,Purple
+eggplant,"Eggplant",#614051,97,64,81,Purple
+electric_lavender,"Electric Lavender",#f4bbff,244,187,255,Purple
+electric_purple,"Electric Purple",#bf00ff,191,0,255,Purple
+electric_violet,"Electric Violet",#8f00ff,143,0,255,Purple
+english_lavender,"English Lavender",#b48395,180,131,149,Purple
+fandango,"Fandango",#b53389,181,51,137,Purple
+fashion_fuchsia,"Fashion Fuchsia",#f400a1,244,0,161,Purple
+french_lilac,"French Lilac",#86608e,134,96,142,Purple
+fuchsia_crayola,"Fuchsia (Crayola)",#c154c1,193,84,193,Purple
+halay_be,"Halayà úBe",#663854,102,56,84,Purple
+han_purple,"Han Purple",#5218fa,82,24,250,Purple
+heliotrope,"Heliotrope",#df73ff,223,115,255,Purple
+indigo,"Indigo",#6f00ff,111,0,255,Purple
+indigo_dye,"Indigo (Dye)",#00416a,0,65,106,Purple
+indigo_web,"Indigo (Web)",#4b0082,75,0,130,Purple
+jazzberry_jam,"Jazzberry Jam",#a50b5e,165,11,94,Purple
+languid_lavender,"Languid Lavender",#d6cadd,214,202,221,Purple
+lavender_blue,"Lavender Blue",#ccf,204,204,255,Purple
+lavender_floral,"Lavender (Floral)",#b57edc,181,126,220,Purple
+lavender_indigo,"Lavender Indigo",#9457eb,148,87,235,Purple
+lavender_magenta,"Lavender Magenta",#ee82ee,238,130,238,Purple
+lavender_mist,"Lavender Mist",#e6e6fa,230,230,250,Purple
+lavender_purple,"Lavender Purple",#967bb6,150,123,182,Purple
+lavender_web,"Lavender (Web)",#e6e6fa,230,230,25,Purple
+light_pastel_purple,"Light Pastel Purple",#b19cd9,177,156,217,Purple
+lilac,"Lilac",#c8a2c8,200,162,200,Purple
+mardi_gras,"Mardi Gras",#880085,136,0,133,Purple
+mauve,"Mauve",#e0b0ff,224,176,255,Purple
+medium_lavender_magenta,"Medium Lavender Magenta",#dda0dd,221,160,221,Purple
+medium_orchid,"Medium Orchid",#ba55d3,186,85,211,Purple
+medium_purple,"Medium Purple",#9370db,147,112,219,Purple
+old_lavender,"Old Lavender",#796878,121,104,120,Purple
+old_mauve,"Old Mauve",#673147,103,49,71,Purple
+opera_mauve,"Opera Mauve",#b784a7,183,132,167,Purple
+orchid,"Orchid",#da70d6,218,112,214,Purple
+palatinate_purple,"Palatinate Purple",#682860,104,40,96,Purple
+pale_lavender,"Pale Lavender",#dcd0ff,220,208,255,Purple
+pale_plum,"Pale Plum",#dda0dd,221,160,221,Purple
+pansy_purple,"Pansy Purple",#78184a,120,24,74,Purple
+pastel_purple,"Pastel Purple",#b39eb5,179,158,181,Purple
+pastel_violet,"Pastel Violet",#cb99c9,203,153,201,Purple
+patriarch,"Patriarch",#800080,128,0,128,Purple
+pearly_purple,"Pearly Purple",#b768a2,183,104,162,Purple
+phlox,"Phlox",#df00ff,223,0,255,Purple
+plum_traditional,"Plum (Traditional)",#8e4585,142,69,133,Purple
+plum_web,"Plum (Web)",#dda0dd,221,160,221,Purple
+psychedelic_purple,"Psychedelic Purple",#df00ff,223,0,255,Purple
+purple_heart,"Purple Heart",#69359c,105,53,156,Purple
+purple_html_css,"Purple (Html/Css)",#800080,128,0,128,Purple
+purple_mountain_majesty,"Purple Mountain Majesty",#9678b6,150,120,182,Purple
+purple_munsell,"Purple (Munsell)",#9f00c5,159,0,197,Purple
+purple_pizzazz,"Purple Pizzazz",#fe4eda,254,78,218,Purple
+purple_taupe,"Purple Taupe",#50404d,80,64,77,Purple
+purple_x11,"Purple (X11)",#a020f0,160,32,240,Purple
+red_violet,"Red-Violet",#c71585,199,21,133,Purple
+rich_brilliant_lavender,"Rich Brilliant Lavender",#f1a7fe,241,167,254,Purple
+rich_lavender,"Rich Lavender",#a76bcf,167,107,207,Purple
+rich_lilac,"Rich Lilac",#b666d2,182,102,210,Purple
+royal_purple,"Royal Purple",#7851a9,120,81,169,Purple
+thistle,"Thistle",#d8bfd8,216,191,216,Purple
+twilight_lavender,"Twilight Lavender",#8a496b,138,73,107,Purple
+tyrian_purple,"Tyrian Purple",#66023c,102,2,60,Purple
+veronica,"Veronica",#a020f0,160,32,240,Purple
+violet,"Violet",#8f00ff,143,0,255,Purple
+violet_blue,"Violet-Blue",#324ab2,50,74,178,Purple
+violet_color_wheel,"Violet (Color Wheel)",#7f00ff,127,0,255,Purple
+violet_ryb,"Violet (Ryb)",#8601af,134,1,175,Purple
+violet_web,"Violet (Web)",#ee82ee,238,130,238,Purple
+vivid_violet,"Vivid Violet",#9f00ff,159,0,255,Purple
+wine_dregs,"Wine Dregs",#673147,103,49,71,Purple
+wisteria,"Wisteria",#c9a0dc,201,160,22,Purple
+amaranth,"Amaranth",#e52b50,229,43,80,Red
+american_rose,"American Rose",#ff033e,255,3,62,Red
+alizarin_crimson,"Alizarin Crimson",#e32636,227,38,54,Red
+antique_ruby,"Antique Ruby",#841b2d,132,27,45,Red
+auburn,"Auburn",#a52a2a,165,42,42,Red
+alabama_crimson,"Alabama Crimson",#a32638,163,38,56,Red
+bright_pink,"Bright Pink",#ff007f,255,0,127,Red
+bright_maroon,"Bright Maroon",#c32148,195,33,72,Red
+brick_red,"Brick Red",#cb4154,203,65,84,Red
+brown_web,"Brown (Web)",#a52a2a,165,42,42,Red
+vivid_auburn,"Vivid Auburn",#922724,146,39,36,Red
+barn_red,"Barn Red",#7c0a02,124,10,2,Red
+big_dip_o_ruby,"Big Dip O’Ruby",#9c2542,156,37,66,Red
+bittersweet_shimmer,"Bittersweet Shimmer",#bf4f51,191,79,81,Red
+boston_university_red,"Boston University Red",#c00,204,0,0,Red
+burgundy,"Burgundy",#800020,128,0,32,Red
+cadmium_red,"Cadmium Red",#e30022,227,0,34,Red
+candy_apple_red,"Candy Apple Red",#ff0800,255,8,0,Red
+cardinal,"Cardinal",#c41e3a,196,30,58,Red
+carmine,"Carmine",#960018,150,0,24,Red
+carmine_red,"Carmine Red",#ff0038,255,0,56,Red
+carnelian,"Carnelian",#b31b1b,179,27,27,Red
+coquelicot,"Coquelicot",#ff3800,255,56,0,Red
+crimson,"Crimson",#dc143c,220,20,60,Red
+cordovan,"Cordovan",#893f45,137,63,69,Red
+crimson_glory,"Crimson Glory",#be0032,190,0,50,Red
+dark_candy_apple_red,"Dark Candy Apple Red",#a40000,164,0,0,Red
+dark_scarlet,"Dark Scarlet",#560319,86,3,25,Red
+deep_carmine,"Deep Carmine",#a9203e,169,32,62,Red
+deep_carmine_pink,"Deep Carmine Pink",#ef3038,239,48,56,Red
+electric_crimson,"Electric Crimson",#ff003f,255,0,63,Red
+firebrick,"Firebrick",#b22222,178,34,34,Red
+folly,"Folly",#ff004f,255,0,79,Red
+french_raspberry,"French Raspberry",#c72c48,199,44,72,Red
+harvard_crimson,"Harvard Crimson",#c90016,201,0,22,Red
+jasper,"Jasper",#d73b3e,215,59,62,Red
+kenyan_copper,"Kenyan Copper",#7c1c05,124,28,5,Red
+ku_crimson,"Ku Crimson",#e8000d,232,0,13,Red
+lava,"Lava",#cf1020,207,16,32,Red
+lust,"Lust",#e62020,230,32,32,Red
+cherry,"Cherry",#de3163,222,49,99,Red
+copper_red,"Copper Red",#cb6d51,203,109,81,Red
+coral_red,"Coral Red",#ff4040,255,64,64,Red
+cornell_red,"Cornell Red",#b31b1b,179,27,27,Red
+dark_pastel_red,"Dark Pastel Red",#c23b22,194,59,34,Red
+dark_red,"Dark Red",#8b0000,139,0,0,Red
+debian_red,"Debian Red",#d70a53,215,10,83,Red
+deep_tuscan_red,"Deep Tuscan Red",#66424d,102,66,77,Red
+falu_red,"Falu Red",#801818,128,24,24,Red
+ferrari_red,"Ferrari Red",#ff2800,255,40,0,Red
+fire_engine_red,"Fire Engine Red",#ce2029,206,32,41,Red
+indian_red,"Indian Red",#cd5c5c,205,92,92,Red
+light_red_ochre,"Light Red Ochre",#e97451,233,116,81,Red
+medium_candy_apple_red,"Medium Candy Apple Red",#e2062c,226,6,44,Red
+dark_red,"Dark Red",#8b0000,139,0,0,Red
+cg_red,"Cg Red",#e03c31,224,60,49,Red
+chinese_red,"Chinese Red",#aa381e,170,56,30,Red
+mahogany,"Mahogany",#c04000,192,64,0,Red
+maroon_crayola,"Maroon (Crayola)",#c32148,195,33,72,Red
+maroon_html_css,"Maroon (Html/Css)",#800000,128,0,0,Red
+maroon_x11,"Maroon (X11)",#b03060,176,48,96,Red
+medium_candy_apple_red,"Medium Candy Apple Red",#e2062c,226,6,44,Red
+medium_carmine,"Medium Carmine",#af4035,175,64,53,Red
+mordant_red_19,"Mordant Red 19",#ae0c00,174,12,0,Red
+orange_red,"Orange-Red",#ff4500,255,69,0,Red
+ou_crimson_red,"Ou Crimson Red",#900,153,0,0,Red
+pale_carmine,"Pale Carmine",#af4035,175,64,53,Red
+persian_plum,"Persian Plum",#701c1c,112,28,28,Red
+persian_red,"Persian Red",#c33,204,51,51,Red
+persimmon,"Persimmon",#ec5800,236,88,0,Red
+prune,"Prune",#701c1c,112,28,28,Red
+radical_red,"Radical Red",#ff355e,255,53,94,Red
+red,"Red",#f00,255,0,0,Red
+red_brown,"Red-Brown",#a52a2a,165,42,42,Red
+red_devil,"Red Devil",#860111,134,1,17,Red
+red_munsell,"Red (Munsell)",#f2003c,242,0,60,Red
+red_ncs,"Red (Ncs)",#c40233,196,2,51,Red
+red_orange,"Red-Orange",#ff5349,255,83,73,Red
+red_pigment,"Red (Pigment)",#ed1c24,237,28,36,Red
+red_ryb,"Red (Ryb)",#fe2712,254,39,18,Red
+redwood,"Redwood",#ab4e52,171,78,82,Red
+rich_carmine,"Rich Carmine",#d70040,215,0,64,Red
+rose_madder,"Rose Madder",#e32636,227,38,54,Red
+rosewood,"Rosewood",#65000b,101,0,11,Red
+rosso_corsa,"Rosso Corsa",#d40000,212,0,0,Red
+rubine_red,"Rubine Red",#d10056,209,0,86,Red
+ruby,"Ruby",#e0115f,224,17,95,Red
+ruby_red,"Ruby Red",#9b111e,155,17,30,Red
+ruddy,"Ruddy",#ff0028,255,0,40,Red
+rufous,"Rufous",#a81c07,168,28,7,Red
+rusty_red,"Rusty Red",#da2c43,218,44,67,Red
+sangria,"Sangria",#92000a,146,0,10,Red
+scarlet,"Scarlet",#ff2400,255,36,0,Red
+scarlet_crayola,"Scarlet (Crayola)",#fd0e35,253,14,53,Red
+sienna,"Sienna",#882d17,136,45,23,Red
+sinopia,"Sinopia",#cb410b,203,65,11,Red
+smokey_topaz,"Smokey Topaz",#933d41,147,61,65,Red
+stizza,"Stizza",#900,153,0,0,Red
+tomato,"Tomato",#ff6347,255,99,71,Red
+tractor_red,"Tractor Red",#fd0e35,253,14,53,Red
+tuscan_red,"Tuscan Red",#7c4848,124,72,72,Red
+ua_red,"Ua Red",#d9004c,217,0,76,Red
+up_maroon,"Up Maroon",#7b1113,123,17,19,Red
+upsdell_red,"Upsdell Red",#ae2029,174,32,41,Red
+usc_cardinal,"Usc Cardinal",#900,153,0,0,Red
+utah_crimson,"Utah Crimson",#d3003f,211,0,63,Red
+venetian_red,"Venetian Red",#c80815,200,8,21,Red
+vermilion_cinnabar,"Vermilion (Cinnabar)",#e34234,227,66,52,Red
+vermilion_plochere,"Vermilion (Plochere)",#d9603b,217,96,59,Red
+vivid_burgundy,"Vivid Burgundy",#9f1d35,159,29,53,Red
+wine,"Wine",#722f37,114,47,5,Red
+apricot,"Apricot",#fbceb1,251,206,177,Skin
+almond,"Almond",#efdecd,239,222,205,Skin
+arylide_yellow,"Arylide Yellow",#e9d66b,233,214,107,Skin
+baby_pink,"Baby Pink",#f4c2c2,244,194,194,Skin
+banana_mania,"Banana Mania",#fae7b5,250,231,181,Skin
+bisque,"Bisque",#ffe4c4,255,228,196,Skin
+blond,"Blond",#faf0be,250,240,190,Skin
+champagne,"Champagne",#fad6a5,250,214,165,Skin
+cornsilk,"Cornsilk",#fff8dc,255,248,220,Skin
+cosmic_latte,"Cosmic Latte",#fff8e7,255,248,231,Skin
+cream,"Cream",#fffdd0,255,253,208,Skin
+dark_salmon,"Dark Salmon",#e9967a,233,150,122,Skin
+atomic_tangerine,"Atomic Tangerine",#f96,255,153,102,Skin
+deep_champagne,"Deep Champagne",#fad6a5,250,214,165,Skin
+deep_peach,"Deep Peach",#ffcba4,255,203,164,Skin
+deep_saffron,"Deep Saffron",#f93,255,153,51,Skin
+desert_sand,"Desert Sand",#edc9af,237,201,175,Skin
+eggshell,"Eggshell",#f0ead6,240,234,214,Skin
+fawn,"Fawn",#e5aa70,229,170,112,Skin
+floral_white,"Floral White",#fffaf0,255,250,240,Skin
+fluorescent_orange,"Fluorescent Orange",#ffbf00,255,191,0,Skin
+light_apricot,"Light Apricot",#fdd5b1,253,213,177,Skin
+linen,"Linen",#faf0e6,250,240,230,Skin
+medium_champagne,"Medium Champagne",#f3e5ab,243,229,171,Skin
+mellow_apricot,"Mellow Apricot",#f8b878,248,184,120,Skin
+misty_rose,"Misty Rose",#ffe4e1,255,228,225,Skin
+moccasin,"Moccasin",#faebd7,250,235,215,Skin
+pale_gold,"Pale Gold",#e6be8a,230,190,138,Skin
+papaya_whip,"Papaya Whip",#ffefd5,255,239,213,Skin
+peach_crayola,"Peach (Crayola)",#ffcba4,255,203,164,Skin
+peach_orange,"Peach-Orange",#fc9,255,204,153,Skin
+peach_puff,"Peach Puff",#ffdab9,255,218,185,Skin
+peach_yellow,"Peach-Yellow",#fadfad,250,223,173,Skin
+sand,"Sand",#c2b280,194,178,128,Skin
+sunset,"Sunset",#fad6a5,250,214,165,Skin
+tan,"Tan",#d2b48c,210,180,140,Skin
+tumbleweed,"Tumbleweed",#deaa88,222,170,136,Skin
+unbleached_silk,"Unbleached Silk",#ffddca,255,221,202,Skin
+anti_flash_white,"Anti-Flash White",#f2f3f4,242,243,244,White
+antique_brass,"Antique Brass",#cd9575,205,149,117,White
+antique_white,"Antique White",#faebd7,250,235,215,White
+azure_mist_web,"Azure Mist/Web",#f0ffff,240,255,255,White
+beige,"Beige",#f5f5dc,245,245,220,White
+blanched_almond,"Blanched Almond",#ffebcd,255,235,205,White
+bone,"Bone",#e3dac9,227,218,201,White
+bubbles,"Bubbles",#e7feff,231,254,255,White
+gainsboro,"Gainsboro",#dcdcdc,220,220,220,White
+ghost_white,"Ghost White",#f8f8ff,248,248,255,White
+glitter,"Glitter",#e6e8fa,230,232,250,White
+gray_x11_gray,"Gray (X11 Gray)",#bebebe,190,190,190,White
+honeydew,"Honeydew",#f0fff0,240,255,240,White
+isabelline,"Isabelline",#f4f0ec,244,240,236,White
+ivory,"Ivory",#fffff0,255,255,240,White
+lavender_gray,"Lavender Gray",#c4c3d0,196,195,208,White
+lavender_blush,"Lavender Blush",#fff0f5,255,240,245,White
+light_goldenrod_yellow,"Light Goldenrod Yellow",#fafad2,250,250,210,White
+light_gray,"Light Gray",#d3d3d3,211,211,211,White
+magnolia,"Magnolia",#f8f4ff,248,244,255,White
+navajo_white,"Navajo White",#ffdead,255,222,173,White
+white,"White",#fff,255,255,255,White
+white_smoke,"White Smoke",#f5f5f5,245,245,245,White
+old_lace,"Old Lace",#fdf5e6,253,245,230,White
+pale_silver,"Pale Silver",#c9c0bb,201,192,187,White
+pastel_gray,"Pastel Gray",#cfcfc4,207,207,196,White
+pearl,"Pearl",#eae0c8,234,224,200,White
+platinum,"Platinum",#e5e4e2,229,228,226,White
+rose_quartz,"Rose Quartz",#aa98a9,170,152,169,White
+seashell,"Seashell",#fff5ee,255,245,238,White
+silver,"Silver",#c0c0c0,192,192,192,White
+snow,"Snow",#fffafa,255,250,250,White
+timberwolf,"Timberwolf",#dbd7d2,219,215,210,White
+wheat,"Wheat",#f5deb3,245,222,17,White
+aureolin,"Aureolin",#fdee00,253,238,0,Yellow
+yellow,"Yellow",#ff0,255,255,0,Yellow
+yellow_green,"Yellow-Green",#9acd32,154,205,50,Yellow
+yellow_munsell,"Yellow (Munsell)",#efcc00,239,204,0,Yellow
+yellow_ncs,"Yellow (Ncs)",#ffd300,255,211,0,Yellow
+yellow_orange,"Yellow Orange",#ffae42,255,174,66,Yellow
+yellow_process,"Yellow (Process)",#ffef00,255,239,0,Yellow
+yellow_ryb,"Yellow (Ryb)",#fefe33,254,254,51,Yellow
+banana_yellow,"Banana Yellow",#ffe135,255,225,53,Yellow
+brass,"Brass",#b5a642,181,166,66,Yellow
+buff,"Buff",#f0dc82,240,220,130,Yellow
+cadmium_yellow,"Cadmium Yellow",#fff600,255,246,0,Yellow
+canary_yellow,"Canary Yellow",#ffef00,255,239,0,Yellow
+chartreuse_traditional,"Chartreuse (Traditional)",#dfff00,223,255,0,Yellow
+chrome_yellow,"Chrome Yellow",#ffa700,255,167,0,Yellow
+citrine,"Citrine",#e4d00a,228,208,10,Yellow
+corn,"Corn",#fbec5d,251,236,93,Yellow
+daffodil,"Daffodil",#ffff31,255,255,49,Yellow
+dandelion,"Dandelion",#f0e130,240,225,48,Yellow
+earth_yellow,"Earth Yellow",#e1a95f,225,169,95,Yellow
+electric_yellow,"Electric Yellow",#ff0,255,255,0,Yellow
+flavescent,"Flavescent",#f7e98e,247,233,142,Yellow
+flax,"Flax",#eedc82,238,220,130,Yellow
+fluorescent_yellow,"Fluorescent Yellow",#cf0,204,255,0,Yellow
+gold_web_golden,"Gold (Web) (Golden)",#ffd700,255,215,0,Yellow
+golden_poppy,"Golden Poppy",#fcc200,252,194,0,Yellow
+golden_yellow,"Golden Yellow",#ffdf00,255,223,0,Yellow
+hansa_yellow,"Hansa Yellow",#e9d66b,233,214,107,Yellow
+icterine,"Icterine",#fcf75e,252,247,94,Yellow
+indian_yellow,"Indian Yellow",#e3a857,227,168,87,Yellow
+jasmine,"Jasmine",#f8de7e,248,222,126,Yellow
+jonquil,"Jonquil",#fada5e,250,218,94,Yellow
+khaki_x11_light_khaki,"Khaki (X11) (Light Khaki)",#f0e68c,240,230,140,Yellow
+laser_lemon,"Laser Lemon",#fefe22,254,254,34,Yellow
+lemon,"Lemon",#fff700,255,247,0,Yellow
+lemon_chiffon,"Lemon Chiffon",#fffacd,255,250,205,Yellow
+lemon_lime,"Lemon Lime",#e3ff00,227,255,0,Yellow
+light_khaki,"Light Khaki",#f0e68c,240,230,140,Yellow
+light_yellow,"Light Yellow",#ffffe0,255,255,224,Yellow
+maize,"Maize",#fbec5d,251,236,93,Yellow
+meat_brown,"Meat Brown",#e5b73b,229,183,59,Yellow
+mellow_yellow,"Mellow Yellow",#f8de7e,248,222,126,Yellow
+mikado_yellow,"Mikado Yellow",#ffc40c,255,196,12,Yellow
+mustard,"Mustard",#ffdb58,255,219,88,Yellow
+naples_yellow,"Naples Yellow",#fada5e,250,218,94,Yellow
+pale_spring_bud,"Pale Spring Bud",#ecebbd,236,235,189,Yellow
+pastel_yellow,"Pastel Yellow",#fdfd96,253,253,150,Yellow
+peach,"Peach",#ffe5b4,255,229,180,Yellow
+peridot,"Peridot",#e6e200,230,226,0,Yellow
+royal_yellow,"Royal Yellow",#fada5e,250,218,94,Yellow
+saffron,"Saffron",#f4c430,244,196,48,Yellow
+sandstorm,"Sandstorm",#ecd540,236,213,64,Yellow
+pale_goldenrod,"Pale Goldenrod",#eee8aa,238,232,170,Yellow
+school_bus_yellow,"School Bus Yellow",#ffd800,255,216,0,Yellow
+selective_yellow,"Selective Yellow",#ffba00,255,186,0,Yellow
+stil_de_grain_yellow,"Stil De Grain Yellow",#fada5e,250,218,94,Yellow
+straw,"Straw",#e4d96f,228,217,111,Yellow
+sunglow,"Sunglow",#fc3,255,204,51,Yellow
+tangerine_yellow,"Tangerine Yellow",#fc0,255,204,0,Yellow
+titanium_yellow,"Titanium Yellow",#eee600,238,230,0,Yellow
+topaz,"Topaz",#ffc87c,255,200,124,Yellow
+ucla_gold,"Ucla Gold",#ffb300,255,179,0,Yellow
+university_of_california_gold,"University Of California Gold",#b78727,183,135,39,Yellow
+unmellow_yellow,"Unmellow Yellow",#ff6,255,255,102,Yellow
+urobilin,"Urobilin",#e1ad21,225,173,33,Yellow
+usc_gold,"Usc Gold",#fc0,255,204,0,Yellow
+vanilla,"Vanilla",#f3e5ab,243,229,171,Yellow
+vegas_gold,"Vegas Gold",#c5b358,197,179,8,Yellow
