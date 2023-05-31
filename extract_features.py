@@ -105,7 +105,7 @@ def asymmetry(mask):
     top_to_b = cv2.flip(top, 0)
     hor_asym = bottom+top_to_b
     hor_diff = sum(hor_asym[hor_asym==1])
-    asymmetry_score = ((vert_difference+hor_diff)/2)/np.sum(mask)*100
+    asymmetry_score = (vert_difference+hor_diff)/np.sum(mask)*100
     return np.around(asymmetry_score, decimals=3)
 
 #-------------------------------------------------------
