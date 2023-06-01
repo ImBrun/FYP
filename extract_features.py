@@ -141,11 +141,11 @@ def compactness(mask):
 
 #-------------Colors features code--------------------
 
-def get_hsv_vals(img):
+def get_hsv_vals(img, mask):
     
-    SEG_COUNT = 250
+    SEG_COUNT = 150
     
-    segments_slic = segmentation.slic(img[:, :, :3], n_segments=SEG_COUNT, compactness=3, sigma=3, start_label=1)
+    segments_slic = segmentation.slic(img[:, :, :3], n_segments=SEG_COUNT, mask=mask, compactness=3, sigma=3, start_label=1)
     
     props = regionprops(segments_slic, intensity_image=img)
     h_means = []
@@ -169,12 +169,10 @@ def get_hsv_vals(img):
     # Compute the interquartile range (IQR)
     IQR = Q3 - Q1
     
-    
-    h_sd = np.std(np.array(h_means))
     s_sd = np.std(np.array(s_means))
     v_sd = np.std(np.array(v_means))
     
-    return h_sd, s_sd, v_sd, IQR
+    return s_sd, v_sd, IQR
 
 #------------------------------------------------------
 
@@ -302,7 +300,7 @@ def get_color_data(rgb_list, SEG_COUNT):
     
     #returns predominant colors, suspicious colors, number of predominant colors, number of suspicious colors,
     #color percentage of each color      
-    return predominant, suspicious_colors, n_of_colors, sus_count, color_percentages
+    return suspicious_colors, n_of_colors, sus_count, color_percentages
 
 
 def get_color_features(img, mask, segcount):
@@ -313,32 +311,18 @@ def get_color_features(img, mask, segcount):
     #segment using slic and get mean color of each slic segment
     means = get_mean_colors(img, mask, 150)
     #get predominant colors, number of them, number of suspicious colors, and percentage of each color
-    predominant_colors, sus_colors, predominant_count, sus_count, colors = get_color_data(means, 150)
+    sus_colors, predominant_count, sus_count, colors = get_color_data(means, 150)
     #using this to add percentage of white as well
-    white_p = get_white(img, mask)
-    colors["White"] = white_p
     
     #since we calculated white separately, see if we have to add it to predominant and 
     #suspicious colors
-    if white_p > THRESHOLD:
-        if "White" not in predominant_colors:
-            predominant_colors.append("White")
-            predominant_count += 1
-            sus_colors.append("White")
-            sus_count += 1
     
     red = colors["Red"]
-    white = colors["White"]
-    black = colors["Black"]
-    green = colors["Green"]
-    blue = colors["Blue"]
     gray_blue = colors["Gray-Blue"]
     pink = colors["Pink"]
-    purple = colors["Purple"]
-    light_brown = colors["Light-Brown"]
     dark_brown = colors["Dark-Brown"]
     
-    return predominant_count, sus_count, red, white, black, green, blue, gray_blue, pink, purple, light_brown, dark_brown
+    return sus_count, red, gray_blue, pink, dark_brown
 
 #--------------------------------------------------------------------------------------------
 
@@ -352,11 +336,11 @@ def return_features(path_mask, path_img):
     sym = asymmetry(mask)
     comp = compactness(mask)
     
-    h_sd, s_sd, v_sd, iqr = get_hsv_vals(color_img)
+    s_sd, v_sd, iqr = get_hsv_vals(color_img, mask)
     
-    color_count,sus_count,red,white,black,green,blue,gray_blue,pink,purple,light_brown,dark_brown = get_color_features(color_img,mask,150)
+    sus_count,red,gray_blue,pink,dark_brown = get_color_features(color_img,mask,150)
     
-    return sym, comp, iqr, h_sd, s_sd, v_sd,color_count,sus_count,red,white,black,green,blue,gray_blue,pink,purple,light_brown,dark_brown
+    return sym, comp, iqr, s_sd, v_sd,sus_count,red,gray_blue,pink,dark_brown
 
 #-------------------------------------------------------
 
@@ -424,7 +408,7 @@ def create_features_csv():
     
     lesions = return_lesion_path_data()
 
-    header = "ID,Asymmetry,Border_Irregularity,IQR,H_STD,S_STD,V_STD,N_Pred_Colors,N_Sus,Red,White," + "Black,Green,Blue,Gray-Blue,Pink,Purple,Light-Brown,Dark-Brown,Diagnostic,Is_Cancer\n"
+    header = "ID,Asymmetry,Border_Irregularity,IQR,S_STD,V_STD,N_Sus,Red" + ",Gray-Blue,Pink,Dark-Brown,Diagnostic,Is_Cancer\n"
     txt = header
 
     for i in range(len(lesions)):
@@ -434,7 +418,7 @@ def create_features_csv():
         img_ = les[2]
         id_ = les_id + ".png"
         
-        sym, comp, iqr, h_sd, s_sd, v_sd,color_count,sus_count,red,white,black,green,blue,gray_blue,pink,purple,light_brown,dark_brown= return_features(mask_, img_)
+        sym, comp, iqr, s_sd, v_sd,sus_count,red,gray_blue,pink,dark_brown= return_features(mask_, img_)
         
         #get the diagnostic from the metadata csv
         use = (((metadata[metadata["img_id"] == id_])["diagnostic"]).values)[0]
@@ -446,7 +430,7 @@ def create_features_csv():
         else:
             is_cancer = False
         
-        values = f"{les_id},{sym},{comp},{iqr},{h_sd},{s_sd},{v_sd},{color_count},{sus_count},{red},{white},{black}," + f"{green},{blue},{gray_blue},{pink},{purple},{light_brown},{dark_brown},{diagnostic},{is_cancer}\n"
+        values = f"{les_id},{sym},{comp},{iqr},{s_sd},{v_sd},{sus_count},{red}," + f"{gray_blue},{pink},{dark_brown},{diagnostic},{is_cancer}\n"
         txt += values
 
     #print(txt)
@@ -466,10 +450,10 @@ def extract_features(img, mask):
     sym = asymmetry(mask)
     comp = compactness(mask)
     
-    h_sd, s_sd, v_sd, iqr = get_hsv_vals(img)
+    s_sd, v_sd, iqr = get_hsv_vals(img)
     
-    color_count,sus_count,red,white,black,green,blue,gray_blue,pink,purple,light_brown,dark_brown = get_color_features(img,mask,150)
-    x = [sym, comp, iqr, h_sd, s_sd, v_sd,color_count,sus_count,red,white,black,green,blue,gray_blue,pink,purple,light_brown,dark_brown]
+    sus_count,red,gray_blue,pink,dark_brown = get_color_features(img,mask,150)
+    x = [sym, comp, iqr, s_sd, v_sd, sus_count, red, gray_blue, pink ,dark_brown]
     return x
 
 #-----------------------------------------------------------------------------------
