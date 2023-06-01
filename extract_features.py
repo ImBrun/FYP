@@ -1,4 +1,3 @@
-import diplib as dip
 import numpy as np
 import matplotlib.pyplot as plt
 from skimage import transform
@@ -227,17 +226,6 @@ def get_mean_colors(img, mask, SEG_COUNT):
             rgb_color = (r,g,b)
             color_means.append(rgb_color)
     
-    #this is just for us to visually inspect what the color means look like, to see that just uncomment
-    #the imshow(out) at the end
-    out = np.empty_like(img)
-    for ii in range(3):
-        regions = regionprops(segments_slic, intensity_image=img[:,:,ii])
-
-    segments = segments_slic.astype('uint32')  # 64-bit types not accepted by DIPlib
-    msr = dip.MeasurementTool.Measure(segments, img, ['Mean'])
-    out = dip.ObjectToMeasurement(segments, msr['Mean'])
-    
-    #plt.imshow(out)
     
     return color_means
 
