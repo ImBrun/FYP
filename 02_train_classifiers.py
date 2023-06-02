@@ -31,42 +31,48 @@ def process_csv(features_path, drop_list):
     
     #Read in data from the features csv and drop NA values if they exist
     data = pd.read_csv(features_path)
-    data = data.dropna() 
-
+    data = data.dropna()
+    
     #Remove chosen columns
     data = data.drop(drop_list, axis=1)
-    #Keep track of how many columns we have depending on removed columns
-    n = 20 - len(drop_list)
+    
+    #save the labels
+    y = data["Is_Cancer"]
 
+    #save the feature space
+    X = data.copy()
+    X = X.drop(["ID", "Diagnostic", "Is_Cancer"], axis=1)
+    
+  
     #Standardizing features
     scaler = StandardScaler()
-    #n-2 because we don't standardize the labels "diagnostic" and "is_cancer"
-    for i in range(1,n-1):
-        data[data.columns[i]] = scaler.fit_transform(data[data.columns[i]].values.reshape(-1, 1))
+ 
+    for i in range(0, len(X.columns)):
+        X[X.columns[i]] = scaler.fit_transform(X[X.columns[i]].values.reshape(-1, 1))
+    
+    pca = PCA(n_components=5)
+    pca_component = pca.fit_transform(X)
 
-    data[data.columns[n]]=data[data.columns[n]].astype(int)
-    return n, data
+    # Convert the PCA component to a DataFrame
+    pca_df = pd.DataFrame(pca_component)
+
+    y= y.astype(int)
+    
+    return pca_df,y
     
 
 #-----------------------------------------------------------------
-
 #---------------Create training data-------------------
 
-def create_training_data(data, n):
-    
-    # Define feature space
-    X = data[data.columns[1:(n-1)]] 
-    
-    
-    # Define labels
-    y = data[data.columns[n]]
+def create_training_data(X, y):
     
     # Convert X and y to numpy arrays
     X,y = X.to_numpy(), y.to_numpy()
     y = np.ravel(y)
     
     # Create test set
-    X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, test_size=0.20, random_state=6)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, test_size=0.20)
+    X_train.shape,y_train.shape, X_test.shape,y_test.shape
     
     #Kfold
     #creating 5 train/validation sets
@@ -149,53 +155,13 @@ def find_optimal_KNN(X_train, y_train):
     return k_val, weight, p_val, metric
 
 
-#--------------------------------------------------------------------
-
-#------------------PCA on DataFrame-------------------
-
-def PCAdf():
-    data_colors = data[['IQR', 'H_STD', 'S_STD', 'V_STD',
-        'N_Pred_Colors', 'Black', 'Green', 'Blue',
-        'Pink', 'Purple', 'Light-Brown']]
-    data_stats = data[['Asymmetry', 'Border_Irregularity']]
-    is_cancer = data[['Is_Cancer']]
-
-    # Perform PCA on the features
-    pca = PCA(n_components=1)
-    pca_component = pca.fit_transform(data_colors)
-
-    # Convert the PCA component to a DataFrame
-    pca_df = pd.DataFrame(pca_component, columns=['PCA_Component'])
-
-    # Append the PCA component to the original DataFrame
-    df_with_pca = pd.concat([data_stats, pca_df, is_cancer], axis=1)
-    return df_with_pca
-
-#-----------------------------------------------------
-
-
 features_path = "features/features.csv"
-drop_list = []
+drop_list =  ["Green", "Blue", "Black", "Light-Brown", "Purple", "N_Pred_Colors","White", "H_STD"]
 
-n, data = process_csv(features_path, drop_list)
-X = data[data.columns[1:(n-1)]]
-y = data[data.columns[n]]
-X,y = X.to_numpy(), y.to_numpy()
-y = np.ravel(y)
+X,y = process_csv(features_path, drop_list)
 
-X_train, X_test, y_train, y_test, sss = create_training_data(data, n)
+X_train, X_test, y_train, y_test, sss = create_training_data(X,y)
 
-THRESHOLD = 0.5
-neigh, weight, p_val, metric  = find_optimal_KNN(X_train, y_train)
-#test_KNN(X_train, y_train, sss, neigh, THRESHOLD, p=p_val,metric=metric, weights=weight)
-
-#Apply PCA on the original dataframe
-pcaDF = PCAdf()
-
-classifier = KNeighborsClassifier(n_neighbors=neigh, weights=weight, p=p_val, metric=metric)
-classifier.fit(X, y)
-
-filename = 'group1_classifier.sav'
-pickle.dump(classifier, open(filename, 'wb'))
+test_KNN(X_train,y_train,sss,5,0.6)
 
 
