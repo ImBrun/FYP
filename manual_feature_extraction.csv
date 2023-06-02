@@ -1,0 +1,7 @@
+image_id;asymmetry_anotator1;asymmetry_anotator2;Border_an1;border_an2;sus_colors1;sus_colors2;Real Asymmetry;Real Border Irr;Number of suspicious colors
+PAT_587_1117_880.png;3;3;3;3;0;0;13.443;0.992091417;2
+PAT_590_1121_504.png;2;2;3;2;3;3;15.779;0.881268075;1
+PAT_591_1126_21.png;4;4;4;4;1;2;32.946;1.449534589;2
+PAT_593_1127_823.png;2;5;2;2;1;1;14.883;1.13451513;1
+PAT_595_1142_142.png;2;3;1;1;1;1;18.367;1.079;1
+PAT_626_1187_34.png;5;5;3;3;3;3;52.713;1.683;1
