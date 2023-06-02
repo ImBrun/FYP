@@ -450,6 +450,12 @@ def create_features_csv():
 #---------Creating the function that returns the features as an array---------------
 
 def extract_features(img, mask):
+    
+    dim = (250, 250)
+    mask= cv2.resize(mask, dim, interpolation = cv2.INTER_AREA)
+ 
+    img = cv2.resize(img, dim, interpolation = cv2.INTER_AREA)
+    
     sym = asymmetry(mask)
     comp = compactness(mask)
     
