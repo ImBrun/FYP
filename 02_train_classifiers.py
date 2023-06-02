@@ -163,7 +163,26 @@ X,y = process_csv(features_path, drop_list)
 
 X_train, X_test, y_train, y_test, sss = create_training_data(X,y)
 
-test_KNN(X_train,y_train,sss,5,0.6)
+# ------The test set of our classifier-------
+# classifier = KNeighborsClassifier(n_neighbors = 5)
+# classifier.fit(X_test, y_test)
+# #Code to use KNN with probabilities
+# probability = classifier.predict_proba(X_test)
+# #print(pr)
+# pr_to_label = np.where(probability[:,0] > 0.6, 0, 1)
+# conf_matrix = confusion_matrix(y_test, pr_to_label, labels=classifier.classes_, normalize="true")
+
+# display = ConfusionMatrixDisplay(confusion_matrix=conf_matrix,display_labels=classifier.classes_)
+# display.plot()
+
+# print(classification_report(y_test, pr_to_label))
+# print(f1_score(y_test, pr_to_label))
+# print(accuracy_score(y_test, pr_to_label))
+# print(recall_score(y_test, pr_to_label))
+# print(precision_score(y_test, pr_to_label))
+#---------------------------------------------
+
+# test_KNN(X_train,y_train,sss,5,0.6)
 
 final_classifier = KNeighborsClassifier(n_neighbors=5)
 final_classifier = final_classifier.fit(X,y)
