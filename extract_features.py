@@ -118,7 +118,7 @@ def compactness(mask):
     #mask_img = cv2.resize(mask, dim, interpolation = cv2.INTER_AREA)
        
     #rounding values in image array so that it is fully binary - consisting only of zeros and ones
-    mask_img = np.around(mask_img)
+    mask_img = np.around(mask)
 
     # computing the area of the lesion - the sum of all the ones in the array
     area = np.sum(mask_img)
