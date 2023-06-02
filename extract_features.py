@@ -80,6 +80,7 @@ def crop_rectangle_mask(mask):
 
 # The mask input has to be resized
 def asymmetry(mask):
+    
     mask=crop_rectangle_mask(mask)
     if mask.shape[0]%2 != 0:
         #add row of zeros
@@ -114,8 +115,6 @@ def asymmetry(mask):
 # The higher the comp. value -> the more uneven the border
 def compactness(mask):
     
-    #resizing mask to 250x250 
-    dim = (250, 250)
     mask_img = cv2.resize(mask, dim, interpolation = cv2.INTER_AREA)
        
     #rounding values in image array so that it is fully binary - consisting only of zeros and ones
@@ -331,7 +330,11 @@ def get_color_features(img, mask, segcount):
 def return_features(path_mask, path_img):
     
     mask = plt.imread(path_mask)
+    dim = (250, 250)
+    mask= cv2.resize(mask, dim, interpolation = cv2.INTER_AREA)
+    
     color_img = plt.imread(path_img)
+    color_img = cv2.resize(color_img, dim, interpolation = cv2.INTER_AREA)
     
     sym = asymmetry(mask)
     comp = compactness(mask)
