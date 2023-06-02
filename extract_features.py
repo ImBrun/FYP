@@ -468,7 +468,7 @@ def extract_features(img, mask):
 #-----------------------------------------------------------------------------------
 
 
-create_features_csv()
+#create_features_csv()
 # mask = plt.imread('../data/masks/PAT_381_775_566.png')
 # img = plt.imread('../data/images/imgs_part_1/PAT_381_775_566.png')
 # print(extract_features(img,mask))
