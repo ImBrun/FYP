@@ -164,4 +164,10 @@ X_train, X_test, y_train, y_test, sss = create_training_data(X,y)
 
 test_KNN(X_train,y_train,sss,5,0.6)
 
+final_classifier = KNeighborsClassifier(n_neighbors=5)
+final_classifier = final_classifier.fit(X,y)
+
+
+filename = "group1_classifier.sav"
+pickle.dump(final_classifier, open(filename, "wb"))
 
