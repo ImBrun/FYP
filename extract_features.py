@@ -459,7 +459,7 @@ def extract_features(img, mask):
     sym = asymmetry(mask)
     comp = compactness(mask)
     
-    s_sd, v_sd, iqr = get_hsv_vals(img)
+    s_sd, v_sd, iqr = get_hsv_vals(img, mask)
     
     sus_count,red,gray_blue,pink,dark_brown = get_color_features(img,mask,150)
     x = [sym, comp, iqr, s_sd, v_sd, sus_count, red, gray_blue, pink ,dark_brown]

@@ -35,7 +35,7 @@ def process_csv(features_path, drop_list):
     
     #Remove chosen columns
     data = data.drop(drop_list, axis=1)
-    
+
     #save the labels
     y = data["Is_Cancer"]
 
@@ -52,6 +52,7 @@ def process_csv(features_path, drop_list):
     
     pca = PCA(n_components=5)
     pca_component = pca.fit_transform(X)
+    pickle.dump(pca, open('pca.pkl', 'wb'))
 
     # Convert the PCA component to a DataFrame
     pca_df = pd.DataFrame(pca_component)
