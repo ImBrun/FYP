@@ -1,6 +1,7 @@
 import pickle
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 
 import os
 
@@ -16,8 +17,11 @@ def classify(img, mask):
     x = pca_reload.transform(x)
     pred_label = classifier.predict(x)
     pred_prob = classifier.predict_proba(x)
+    
+    #predicted label at threshold 0.6 for non-cancerous, uncomment and return when you want to see
+    #pr_to_label = np.where(pred_prob[:,0] > 0.6, 0, 1)
 
-    return pred_label, pred_prob
+    return pred_label, pred_prob #, pr_to_label
 
 def test_classify():
     lab = []
